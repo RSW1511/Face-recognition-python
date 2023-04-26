@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="register">
+    <file>register.png</file>
+  </qresource>
+</RCC>
